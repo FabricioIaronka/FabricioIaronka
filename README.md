@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/FabricioIaronka/FabricioIaronka/tree/main">
   <image height="180cm" src=https://github-readme-stats.vercel.app/api?username=FabricioIaronka&show_icons=true&bg_color=DEG,08002b,0c013d,0f024d,13016b,18008f,2102ba&border_color=fffffff&title_color=ffffff&text_color=ffffff&icon_color=03ffc4&locale=pt-br&ring_color=00ffff>
-  <image  height="160cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioIaronka&layout=compact&bg_color=DEG,08002b,0c013d,0f024d,13016b,18008f,2102ba&title_color=00ffff&border_color=fffffff>
+  <image  height="160cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioIaronka&layout=compact&bg_color=DEG,08002b,0c013d,0f024d,13016b,18008f,2102ba&title_color=ffffff&text_color=ffffff&border_color=fffffff>
 </div>
 <div>
   <img width="30" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  />
