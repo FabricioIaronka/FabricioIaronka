@@ -1,6 +1,7 @@
 ## Olá, eu sou Fabricio Iaronka
 - 💻Atualmente cursando Ciências da Compução no IFSC-Lages
-- 🧑‍💻Cursei C#
+- 🧑‍💻Atuamente aprendendo Python
+- ⚡Começando a estudar sobre IA's
 
 <div>
   <a href="https://github.com/FabricioIaronka/FabricioIaronka/tree/main">
